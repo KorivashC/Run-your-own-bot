@@ -4,7 +4,6 @@
 // You must use these node_moduels to run everything
 
 
-// This bot was created for people with simple java knowledge, if you have any questions
-please DM me on discord
+// This bot was created for people with simple java knowledge.
 
-// Korivash#0001
+
