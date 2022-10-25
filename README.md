@@ -4,7 +4,7 @@
 // You must use these node_moduels to run everything
 
 
-// This bot was created for people with simple lua knowledge, if you have any questions
+// This bot was created for people with simple java knowledge, if you have any questions
 please DM me on discord
 
 // Korivash#0001
