@@ -2,7 +2,7 @@ module.exports = {
     bot_token: "", //your discord bot token
     bot_prefix: "!", // your bot prefix
     bot_playing: "", // bot playing section
-    level_embed: "RED",
+    level_embed: "RED", // Change to the Green or Red depending on the status of the bot
     rolemessageID: "", // Enter your role message ID
     twitch: {
         serverid: "", //discord server id
